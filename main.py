@@ -38,7 +38,7 @@ def process_image(file_path):
 # Example usage
 if __name__ == "__main__":
     # Path to your dataset
-    dataset_path = '/home/gravityfall/Desktop/MLEmotionRecognition/archive/images/0'
+    dataset_path = '/archive/images/0'
     test_images = ['Anger.jpg', 'Contempt.jpg', 'Disgust.jpg']  # Example image names
     
     # Evaluate each image in the test set
